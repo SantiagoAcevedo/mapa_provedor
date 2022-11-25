@@ -9,7 +9,7 @@
 <img src="TA0al7Vl8G.jpg" alt="Mapa Provedor2">
 <img src="msedge_yMR8KqCagt.jpg" alt="Mapa Provedor">
 
-> Mapa para provedor de internet, com informação dos clientes em tempo real.
+> Mapa para provedor de internet, com informação dos clientes em tempo real. Informações MikroTik, IXC Provedor
 
 ### Ajustes e melhorias
 
