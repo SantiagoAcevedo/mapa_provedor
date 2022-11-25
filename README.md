@@ -34,7 +34,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Projeto realizado para estudo, sem fins lucrativos.
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-## 💻 Feito com:
+## 💻 Feito com
 * PHP
 * Baseado em Bootstrap e Bootswatch
 * Leaflet.js
