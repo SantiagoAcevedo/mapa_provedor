@@ -10,6 +10,7 @@
 
 <img src="msedge_5NHoudztje.jpg" alt="Mapa Provedor">
 <img src="TA0al7Vl8G.jpg" alt="Mapa Provedor2">
+<img src="msedge_yMR8KqCagt.jpg" alt="Mapa Provedor">
 
 > Mapa para provedor de internet, com informação dos clientes em tempo real.
 
@@ -30,10 +31,11 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Apache 2 ou Nginx
 * PHP 5.4 ou superior
 * MariaDB.
+* Atualmente funcioando com a API do IXC Provedo (Informações de clientes, etc).
 
 
 ## 📝 Licença
-
+Projeto realizado para estudo, sem fins lucrativos.
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
