@@ -28,7 +28,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Atualmente funcioando com a API do IXC Provedo (Informações de clientes, etc). [Wiki API do IXCProvedor.](https://wikiapiprovedor.ixcsoft.com.br/).
 
 ## 📝 Licença
-Projeto realizado para estudo, sem fins lucrativos.
+Projeto realizado para estudo e pesquisa, sem fins lucrativos.
+
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 ## 💻 Feito com
