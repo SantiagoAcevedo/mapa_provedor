@@ -4,9 +4,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 <img src="msedge_5NHoudztje.jpg" alt="Mapa Provedor">
 <img src="TA0al7Vl8G.jpg" alt="Mapa Provedor2">
@@ -33,9 +30,16 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * MariaDB.
 * Atualmente funcioando com a API do IXC Provedo (Informações de clientes, etc).
 
-
 ## 📝 Licença
 Projeto realizado para estudo, sem fins lucrativos.
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+## 💻 Feito com:
+* PHP
+* Baseado em Bootstrap e Bootswatch
+* Leaflet.js
+* OpenStreetMap
+* MapBox
+* Jquery
+
+[⬆ Voltar ao topo](#mapa_provedo)<br>
