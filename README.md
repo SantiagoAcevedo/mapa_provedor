@@ -9,7 +9,7 @@
 <img src="TA0al7Vl8G.jpg" alt="Mapa Provedor2">
 <img src="msedge_yMR8KqCagt.jpg" alt="Mapa Provedor">
 
-> Mapa para provedor de internet, com informação dos clientes em tempo real. Informações MikroTik, IXC Provedor
+> Mapa para provedor de internet, com informação dos clientes em tempo real. Informações MikroTik [IXCProvedor.](https://www.ixcsoft.com.br/ixcprovedor/).
 
 ### Ajustes e melhorias
 
@@ -28,7 +28,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Apache 2 ou Nginx
 * PHP 5.4 ou superior
 * MariaDB.
-* Atualmente funcioando com a API do IXC Provedo (Informações de clientes, etc).
+* Atualmente funcioando com a API do IXC Provedo (Informações de clientes, etc). [Wiki API do IXCProvedor.](https://wikiapiprovedor.ixcsoft.com.br/).
 
 ## 📝 Licença
 Projeto realizado para estudo, sem fins lucrativos.
