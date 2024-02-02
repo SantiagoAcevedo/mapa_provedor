@@ -2,9 +2,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="msedge_5NHoudztje.jpg" alt="Mapa Provedor">
-<img src="TA0al7Vl8G.jpg" alt="Mapa Provedor2">
-<img src="msedge_yMR8KqCagt.jpg" alt="Mapa Provedor">
+<img src="msedge_svAF6PweHm.jpg" alt="Mapa Provedor 1">
+<img src="msedge_rFhqZVDKQS.jpg" alt="Mapa Provedor 2">
+<img src="msedge_BKjaOghcc7.jpg" alt="Mapa Provedor 3">
+<img src="msedge_03ZAWe58hl.png" alt="Mapa Provedor 4">
+<img src="msedge_1g4IkCr4L6.png" alt="Mapa Provedor 5">
 
 > Mapa para provedor de internet, com informação dos clientes em tempo real. Informações MikroTik, [IXCProvedor](https://www.ixcsoft.com.br/ixcprovedor/).
 
